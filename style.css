@@ -1,0 +1,10 @@
+#train, #car {
+    position: relative;
+    cursor: pointer;
+  }
+  .lenght {
+    width: 100px;
+    padding: 5px 0;
+    color: white;
+    background-color: black;
+  }
